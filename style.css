@@ -5,7 +5,7 @@ body{background-color: rgb(10, 121, 6);}
 font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-p{
+.texto-principal{
     font-size: 25px;
     text-align: center;
 }
@@ -13,4 +13,5 @@ p{
 
  .paragrafos{
     text-align: justify;
+    font-size: 25px;
  }
